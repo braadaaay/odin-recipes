@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe website using [https://www.theodinproject.com/lessons/foundations-recipes](The Odin Project Recipes Lesson)
+Recipe website using [The Odin Project Recipes Lesson](https://www.theodinproject.com/lessons/foundations-recipes)
